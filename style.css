@@ -1,0 +1,24 @@
+h1 {
+    color:rgb(46, 46, 65);
+    background-color: aqua;
+    text-align: center;
+    display: inline-block;
+}
+.p1{
+    color: rgb(255, 127, 140);
+    display: inline-block;
+}
+.p2{
+    color: rgb(97, 19, 223);
+    background-color: rgb(225, 206, 242);
+    display: inline-block;
+    font: 0.7em Verdana;
+}
+.p3{
+    color: rgb(29, 150, 53);
+    background-color: rgb(206, 242, 219);
+    display: inline-block;
+}
+a{
+    color:brown;
+}
